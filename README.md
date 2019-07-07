@@ -1,1 +1,1 @@
-# cold-staking-dapp
+## Cold Staking DApp
