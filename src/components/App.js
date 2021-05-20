@@ -162,6 +162,12 @@ class App extends Component {
               </div>
             ) : null}
           </div>
+          <div className="App-Content">
+            We are migrating to Cold Staking v2. Please wait for the new smart-contract version.
+          </div>
+          <div className="App-Content">
+            All funds are SAFE and you will be able to withdraw after finishing your staking round.
+          </div>
           <div className="App-content square">
             <AccountDetails
               balance={this.state.balance}
